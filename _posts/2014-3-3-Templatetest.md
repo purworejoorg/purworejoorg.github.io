@@ -1,5 +1,5 @@
 ---
-layout: postnew
+layout: chat
 title: You're up and running!
 ---
 
